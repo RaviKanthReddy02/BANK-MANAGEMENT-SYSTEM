@@ -79,9 +79,3 @@ public class Withdrawl extends JFrame implements ActionListener {
     }
 }
 
-//try {
-//            double number = Double.parseDouble(numberStr); // Convert String to double
-//            System.out.println("The double value is: " + number);
-//        } catch (NumberFormatException e) {
-//            System.out.println("Invalid number format: " + e.getMessage());
-//        }
